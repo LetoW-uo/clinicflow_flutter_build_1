@@ -6,5 +6,4 @@ Notable changes to this project are documented here.
 
 - Created the initial Flutter application scaffold.
 - Named the project `clinicflow_flutter_build_1` across its package and platform metadata.
-- Idk what the hell any of this means
-- Branches make no sense 
+- Added folders in .lib for the 5 subsystems and a folder for app assets. Check README for to do list before branching and the folder structure.
